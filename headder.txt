@@ -1,1 +1,2 @@
 Some text for headder
+Changes from <master>
